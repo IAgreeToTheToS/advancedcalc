@@ -1,0 +1,11 @@
+* {
+    font-family: Arial;
+}
+body {
+    background-color: grey;
+}
+.calculatorBox {
+    border: 1px solid #595757;
+    background: #424040;
+    font-size: 16px;
+}
